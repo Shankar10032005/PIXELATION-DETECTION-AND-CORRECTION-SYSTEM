@@ -13,6 +13,12 @@ Pixelation degrades image clarity and sharpness, significantly impacting applica
 
 ---
 
+### Demo
+
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/Shankar10032005/PIXELATION-DETECTION-AND-CORRECTION-SYSTEM/raw/main/Demo.mp4)
+
+---
+
 ### Proposed Solution
 A two-stage system combining:
 - **Pixelation Detection**: A CNN-based model classifies images as pixelated or non-pixelated.
